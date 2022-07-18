@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @razseed i'm 33, from the UK
+- 👋 Hi, I’m @razseed i'm 34, from the UK
 - 👀 I’m interested in ... Web Development, Career Change
-- 🌱 I’m currently learning ...  The Odin project
+- 🌱 I’m currently learning ...  The Odin project.
+     HTML5, CSS3, SASS and Javascript.
 -
 - 📫 How to reach me ... Undefined for now.
 
